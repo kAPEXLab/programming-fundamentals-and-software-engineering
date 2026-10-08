@@ -15,4 +15,4 @@
 
 ## Exercises
 
-* [Unit Testing with Google Test Framework](https://github.com/kAPEXLab/programming-fundamentals-and-software-engineering/tree/5d352b2563af17c190b1e8856a90a97f8076477b/GoogleTest)
+* [Unit Testing with Google Test Framework](https://kapexlab.github.io/Unit-Testing-with-Google-Test-Framework/)
