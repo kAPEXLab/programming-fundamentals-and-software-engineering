@@ -13,6 +13,12 @@
 
 * [C Programming](https://kapexlab.github.io/C-Programming/)
 
-## Exercises
+## 📌 Exercises
 
 * [Unit Testing with Google Test Framework](https://kapexlab.github.io/Unit-Testing-with-Google-Test-Framework/)
+
+
+## 📌 Mini Project
+
+* [Guidelines](MINI_PROJECT_GUIDELINES.md)
+* [Template](MINI_PROJECT_TEMPLATE.md)
