@@ -28,13 +28,13 @@ The project must not be a collection of unrelated C programs. All modules must w
 
 ## 2. Project Expectations
 
-You are expected to think like a software engineer, not only as a programmer.
+This is an individual mini project. You are expected to think like a software engineer, not only as a programmer.
 
 You must:
 
 1. Identify a meaningful engineering scenario.
 2. Understand and define the problem.
-3. identify the expected users.
+3. Identify the expected users.
 4. Define the project scope.
 5. Write functional and non-functional requirements.
 6. Design the software architecture and modules.
@@ -136,7 +136,17 @@ The project proposal must contain the following sections.
 
 Provide a clear and meaningful project title that reflects the problem being solved.
 
-### 5.2 Engineering Scenario
+### 5.2 Student Information
+
+Provide:
+
+- Student name
+- Roll number
+- Division or batch
+- Project title
+- GitHub repository link
+
+### 5.3 Engineering Scenario
 
 Explain:
 
@@ -146,7 +156,7 @@ Explain:
 - Who faces the problem
 - Why a software solution is useful
 
-### 5.3 Problem Statement
+### 5.4 Problem Statement
 
 Clearly state:
 
@@ -155,7 +165,7 @@ Clearly state:
 - Information that needs to be managed
 - Expected result from the proposed solution
 
-### 5.4 Proposed Solution
+### 5.5 Proposed Solution
 
 Describe the software solution at a high level.
 
@@ -166,11 +176,11 @@ Explain:
 - What major operations it will support
 - What output or reports it will generate
 
-### 5.5 Target Users
+### 5.6 Target Users
 
 Identify the expected users of the system and briefly explain how each user will use it.
 
-### 5.6 Project Scope
+### 5.7 Project Scope
 
 Define the project boundary using two lists:
 
@@ -179,7 +189,7 @@ Define the project boundary using two lists:
 
 The scope must be realistic for the available project duration.
 
-### 5.7 Functional Requirements
+### 5.8 Functional Requirements
 
 Specify what the system must do.
 
@@ -193,7 +203,7 @@ Example requirement format:
 
 Requirements must describe behaviour, not implementation details.
 
-### 5.8 Non-Functional Requirements
+### 5.9 Non-Functional Requirements
 
 Specify expected software quality, including:
 
@@ -207,11 +217,11 @@ Specify expected software quality, including:
 - Documentation
 - Version control
 
-### 5.9 Initial Modules
+### 5.10 Initial Modules
 
 Identify the major modules expected in the solution and state the responsibility of each module.
 
-### 5.10 Initial Architecture Diagram
+### 5.11 Initial Architecture Diagram
 
 Create a high-level block diagram showing:
 
@@ -222,11 +232,11 @@ Create a high-level block diagram showing:
 - File storage
 - Reports or outputs
 
-### 5.11 High-Level Workflow
+### 5.12 High-Level Workflow
 
 Show how a user will interact with the application from start to exit.
 
-### 5.12 Planned C Concepts
+### 5.13 Planned C Concepts
 
 List the C concepts planned for the project and explain why they are needed.
 
@@ -685,7 +695,29 @@ Adapt file and module names to your project.
 
 # Phase 4: GitHub Publication and Demonstration
 
-## 21. Git Requirements
+## 21. Individual Project and Academic Integrity
+
+This mini project must be completed individually.
+
+You may discuss general concepts and approaches with classmates, but the following work must be your own:
+
+- Problem definition
+- Requirements
+- Software design
+- Source code
+- Unit tests
+- Makefile
+- Documentation
+- Git commit history
+- Demonstration and explanation
+
+Direct copying of another student's design, source code, tests or documentation is not permitted. Any external reference used must be understood and acknowledged appropriately.
+
+You must be prepared to explain, modify and test any part of your submission during evaluation.
+
+---
+
+## 22. Git Requirements
 
 Use Git throughout development.
 
@@ -713,7 +745,7 @@ Avoid unclear messages such as:
 
 ---
 
-## 22. GitHub Repository Requirements
+## 23. GitHub Repository Requirements
 
 Create a GitHub repository with a meaningful name.
 
@@ -750,7 +782,7 @@ Before submission, clone the repository into a new directory and verify that:
 
 ---
 
-## 23. README Requirements
+## 24. README Requirements
 
 The root of the repository must contain README.md with:
 
@@ -773,25 +805,25 @@ The root of the repository must contain README.md with:
 - Sample output
 - Unit-testing summary
 - Error-handling summary
-- Team members and responsibilities
+- Student information
 - Known limitations
 - Future enhancements
-- GitHub repository information
+- GitHub repository link
 
 The README must allow another developer to build and run the project without additional verbal instructions.
 
 ---
 
-## 24. Project Deliverables
+## 25. Project Deliverables
 
 Submit the following:
 
-### 24.1 Project Proposal
+### 25.1 Project Proposal
 
 Include:
 
 - Project title
-- Team details
+- Student information
 - Engineering scenario
 - Problem statement
 - Proposed solution
@@ -804,7 +836,7 @@ Include:
 - High-level workflow
 - Planned C concepts
 
-### 24.2 Detailed Design
+### 25.2 Detailed Design
 
 Include:
 
@@ -819,7 +851,7 @@ Include:
 - Application flowchart
 - Unit-test plan
 
-### 24.3 Source Code
+### 25.3 Source Code
 
 Include:
 
@@ -832,7 +864,7 @@ Include:
 - No unused code or variables
 - Warning-free build
 
-### 24.4 Unit Tests
+### 25.4 Unit Tests
 
 Include:
 
@@ -843,7 +875,7 @@ Include:
 - Repeatable tests
 - Successful execution through make test
 
-### 24.5 Makefile
+### 25.5 Makefile
 
 Must support:
 
@@ -852,15 +884,15 @@ Must support:
     make test
     make clean
 
-### 24.6 README
+### 25.6 README
 
 Provide complete build, run, test and project documentation.
 
-### 24.7 GitHub Repository
+### 25.7 GitHub Repository
 
 Share the complete and accessible GitHub repository link.
 
-### 24.8 Demonstration
+### 25.8 Demonstration
 
 Demonstrate:
 
@@ -877,19 +909,19 @@ Demonstrate:
 11. Commit history
 12. GitHub repository
 
-### 24.9 Reflection
+### 25.9 Reflection
 
 Briefly explain:
 
 - What worked well
 - Challenges faced
 - How challenges were resolved
-- What was learned
+- What you learned
 - Future improvements
 
 ---
 
-## 25. Submission Checklist
+## 26. Submission Checklist
 
 ### Proposal and Design
 
@@ -963,7 +995,7 @@ Briefly explain:
 
 ---
 
-## 26. Expected Engineering Mindset
+## 27. Expected Engineering Mindset
 
 Follow this development process:
 

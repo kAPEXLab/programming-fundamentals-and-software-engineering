@@ -22,15 +22,19 @@ Engineering domain:
 
 | Field | Details |
 |---|---|
-| Team name | |
-| Member 1 name | |
-| Member 1 roll number | |
-| Member 2 name | |
-| Member 2 roll number | |
-| Member 3 name | |
-| Member 3 roll number | |
+| Student name | |
+| Roll number | |
+| Division / batch | |
 | Repository name | |
 | GitHub repository link | |
+
+## 1.4 Individual Project Declaration
+
+I confirm that this project is my individual work. I understand the design, source code, unit tests, Makefile and documentation included in this repository, and I am prepared to explain or modify any part during evaluation.
+
+Student signature or acknowledgement:
+
+[Enter acknowledgement]
 
 ---
 
@@ -668,18 +672,18 @@ Add or remove entries according to the project.
 
 # 18. Implementation Status
 
-| Work Item | Owner | Status | Evidence or Commit |
-|---|---|---|---|
-| Proposal | | Not Started / In Progress / Complete | |
-| Detailed design | | | |
-| Module 1 | | | |
-| Module 2 | | | |
-| Module 3 | | | |
-| File handling | | | |
-| Unit tests | | | |
-| Makefile | | | |
-| README | | | |
-| Repository verification | | | |
+| Work Item | Status | Evidence or Commit |
+|---|---|---|
+| Proposal | Not Started / In Progress / Complete | |
+| Detailed design | | |
+| Module 1 | | |
+| Module 2 | | |
+| Module 3 | | |
+| File handling | | |
+| Unit tests | | |
+| Makefile | | |
+| README | | |
+| Repository verification | | |
 
 ---
 
@@ -764,20 +768,20 @@ Confirm that README.md contains:
 
 # 21. Demonstration Plan
 
-| Sequence | Demonstration Item | Team Member | Approximate Time |
-|---:|---|---|---|
-| 1 | Introduce engineering scenario | | |
-| 2 | Explain problem statement | | |
-| 3 | Present requirements | | |
-| 4 | Explain architecture | | |
-| 5 | Show repository structure | | |
-| 6 | Build using make all | | |
-| 7 | Run using make run | | |
-| 8 | Demonstrate major features | | |
-| 9 | Demonstrate invalid-input handling | | |
-| 10 | Execute make test | | |
-| 11 | Show commit history | | |
-| 12 | Explain limitations and improvements | | |
+| Sequence | Demonstration Item | Approximate Time |
+|---:|---|---|
+| 1 | Introduce engineering scenario | |
+| 2 | Explain problem statement | |
+| 3 | Present requirements | |
+| 4 | Explain architecture | |
+| 5 | Show repository structure | |
+| 6 | Build using make all | |
+| 7 | Run using make run | |
+| 8 | Demonstrate major features | |
+| 9 | Demonstrate invalid-input handling | |
+| 10 | Execute make test | |
+| 11 | Show commit history | |
+| 12 | Explain limitations and improvements | |
 
 ---
 
@@ -795,7 +799,7 @@ Confirm that README.md contains:
 
 [Write the response here]
 
-## 22.4 What Did the Team Learn?
+## 22.4 What Did You Learn?
 
 Discuss learning related to:
 
@@ -806,7 +810,6 @@ Discuss learning related to:
 - Makefiles
 - Git
 - GitHub
-- Teamwork
 
 [Write the response here]
 
@@ -909,15 +912,17 @@ Engineering domain:
 
 [Enter domain]
 
-Team name:
+Student name:
 
-[Enter team name]
+[Enter student name]
 
-Team members:
+Roll number:
 
-1. [Name and roll number]
-2. [Name and roll number]
-3. [Name and roll number]
+[Enter roll number]
+
+Division / batch:
+
+[Enter division or batch]
 
 GitHub repository link:
 
