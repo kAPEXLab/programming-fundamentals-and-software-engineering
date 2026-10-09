@@ -15,7 +15,7 @@
 
 ## 📌 Exercises
 
-* [Unit Testing with Google Test Framework](https://kapexlab.github.io/Unit-Testing-with-Google-Test-Framework/)
+* [Unit Testing with GoogleTest Framework](https://kapexlab.github.io/Unit-Testing-with-GoogleTest-Framework/)
 
 
 ## 📌 Mini Project
